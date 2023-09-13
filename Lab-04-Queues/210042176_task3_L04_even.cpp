@@ -28,9 +28,7 @@
         return count;            
     }
 
-    int main() {
-        
-        
+    int main() { 
 
         cout << ping(1) << "\n";
         cout << ping(2) << "\n";
