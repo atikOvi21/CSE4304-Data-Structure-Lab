@@ -64,12 +64,6 @@
 
     int main() {
 
-    init_code();
-
-   
-
-  
-
     push_s(10);
      top_s() ;
     push_s(20);
